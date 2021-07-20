@@ -1,0 +1,17 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    transition: all 0.5s ease-in-out;
+}
+.Nav__logo{
+    width: 90px;
+    object-fit: contain;
+    margin-left: 17px;
+ 
+    
+}
+.nav_black{
+    background-color:rgb(22, 21, 21);
+}
